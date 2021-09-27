@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![A.Y. Jackson SS](https://www.google.com/maps/uv?pb=!1s0x4ccdffa6e4326f5f%3A0x61f3b50888b32cc3!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMKvavCKgJQJowYMcinpEw3WV4fY-F-57ZTLjYz%3Dw284-h160-k-no!5say%20jackson%20ss%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipMKvavCKgJQJowYMcinpEw3WV4fY-F-57ZTLjYz&hl=en&sa=X&ved=2ahUKEwjNxKWBvZ_zAhVsh-AKHey_BaQQoip6BAhkEAM)
