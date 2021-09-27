@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# My favourite fruits and vegetables:
+* Cherries
+* Corn
+* Cucumber
+* Peaches
+* Strawberries
+* Apricots
